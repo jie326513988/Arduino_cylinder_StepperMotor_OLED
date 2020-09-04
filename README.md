@@ -1,6 +1,7 @@
 # Arduino_cylinder_StepperMotor_OLED
 ![](https://github.com/jie326513988/Arduino_cylinder_StepperMotor_OLED/blob/master/QQ%E6%88%AA%E5%9B%BE20200904155513.png)
 观看视频https://www.bilibili.com/video/BV1Tf4y197VP  <br>
+#### 如需编译一定要装我的u82g库！
 6个气缸联动，1个步进运动，OLED菜单交互，1个旋转编码器，1个复位按钮，1个启停按钮，2个传感器<br>
 OLED配合旋转编码器用来调节参数<br>
 主界面显示步进状态，缺料、满料、磁铁没吸起会有提示<br>
